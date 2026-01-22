@@ -36,8 +36,8 @@ sales-performance-analytics/
 │   └── Sales_Performance_Dashboard.pbix
 │
 ├── data/
-    └── Sales_Performance_Data.xlsx
-
+│   └── Sales_Performance_Data.xlsx
+│
 │
 ├── screenshots/
 │   ├── excel-dashboard.png
@@ -46,8 +46,6 @@ sales-performance-analytics/
 │   ├── powerbi-sales-performance.png
 │   └── powerbi-customer-insights.png
 │
-├── documentation/
-│   └── project-guide.md
 │
 └── README.md
 ```
@@ -166,4 +164,5 @@ sales-performance-analytics/
 - Revenue and profitability analysis
 - Customer segmentation strategies
 - Performance tracking methodologies
+
 - Data-driven decision making
